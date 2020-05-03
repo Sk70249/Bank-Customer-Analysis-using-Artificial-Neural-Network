@@ -10,4 +10,7 @@ This Deep learning Model has got the "0" Missclassified Samples , hence an Accur
    
 ![download (3)](https://user-images.githubusercontent.com/48255425/80918625-951a9180-8d83-11ea-844f-45a307a1840c.png)
 
+#### For more info Visit:
+https://sk70249.github.io/Bank-Customer-Analysis-using-Artificial-Neural-Network/
+
 
