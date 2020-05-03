@@ -5,7 +5,7 @@ An Artificial Neural Network or a Deep Learning Model that identifies  whether t
 
 This Deep learning Model has got the "0" Missclassified Samples , hence an Accuracy of 100%
 
-## Confufion Matrix:
+## Confusion Matrix:
    Accuracy: 100%
    
 ![download (3)](https://user-images.githubusercontent.com/48255425/80918625-951a9180-8d83-11ea-844f-45a307a1840c.png)
